@@ -1,4 +1,4 @@
-# spirit_life
+# Flutter_navigation_bar
 
 A new Flutter project.
 
